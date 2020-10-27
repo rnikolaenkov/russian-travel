@@ -1,3 +1,13 @@
 .places__text {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 163%;
+  color: #FFFFFF;
+  margin: 0 0 26px;
+}
 
+.places__text:last-child {
+  margin-bottom: 0;
 }
