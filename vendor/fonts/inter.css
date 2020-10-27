@@ -136,7 +136,7 @@
   src: url("Inter-ExtraBoldItalic.woff2?v=3.15") format("woff2"),
        url("Inter-ExtraBoldItalic.woff?v=3.15") format("woff");
 }
-
+*/
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
@@ -145,6 +145,7 @@
   src: url("Inter-Black.woff2?v=3.15") format("woff2"),
        url("Inter-Black.woff?v=3.15") format("woff");
 }
+/*
 @font-face {
   font-family: 'Inter';
   font-style:  italic;
