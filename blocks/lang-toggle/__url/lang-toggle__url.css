@@ -1,0 +1,14 @@
+.lang-toggle__url {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.lang-toggle__url:hover {
+  opacity: 0.8;
+}
