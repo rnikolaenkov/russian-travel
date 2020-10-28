@@ -10,3 +10,9 @@
 .places__card:last-child {
   margin-bottom: 0;
 }
+
+@media screen and (max-width: 1024px) {
+  .places__card {
+    column-gap: 32px;
+  }
+}
