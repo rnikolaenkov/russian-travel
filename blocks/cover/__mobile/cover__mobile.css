@@ -1,5 +1,5 @@
 @media screen and (max-width: 1024px) {
-  .cover_mobile {
+  .cover__mobile {
     margin-right: -48px;
     margin-left: -48px;
   }
