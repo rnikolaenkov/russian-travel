@@ -4,3 +4,10 @@
   max-width: 984px;
   margin-bottom: 92px;
 }
+
+@media screen and (max-width: 768px) {
+  .root__container {
+    max-width: 720px;
+    margin-bottom: 82px;
+  }
+}

@@ -2,3 +2,11 @@
   width: 100%;
   margin-bottom: 8px;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__img {
+    width: calc(100% + 48px);
+    margin-left: -24px;
+    margin-right: -24px;
+  }
+}

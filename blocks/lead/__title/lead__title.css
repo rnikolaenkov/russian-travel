@@ -1,5 +1,5 @@
 .lead__title {
-  display: inline-block;
+  display: block;
   width: 720px;
   font-family: Inter;
   font-style: normal;
@@ -7,5 +7,5 @@
   font-size: 96px;
   line-height: 100px;
   color: #FFFFFF;
-  margin: 0 0 32px;
+  margin: 0 auto 32px;
 }
