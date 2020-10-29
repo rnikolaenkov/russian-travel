@@ -1,0 +1,7 @@
+.nav-footer__item {
+  margin-bottom: 32px;
+}
+
+.nav-footer__item:last-child {
+  margin-bottom: 0;
+}

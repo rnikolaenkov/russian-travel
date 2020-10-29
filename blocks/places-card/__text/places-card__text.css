@@ -1,0 +1,7 @@
+.places-card__text {
+  margin: 0 16px 25px;
+}
+
+.places-card__text:last-child {
+  margin-bottom: 0;
+}

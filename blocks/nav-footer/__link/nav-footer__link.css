@@ -1,0 +1,14 @@
+.nav-footer__link {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.nav-footer__link:hover {
+  opacity: 0.8;
+}
