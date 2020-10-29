@@ -1,4 +1,5 @@
 .cover__subtitle {
+  display: inline-block;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -6,4 +7,5 @@
   line-height: 22px;
   color: #FFFFFF;
   margin: 0;
+  width: 360px;
 }
