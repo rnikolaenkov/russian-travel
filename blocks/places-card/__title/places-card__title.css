@@ -1,3 +1,10 @@
 .places-card__title {
   margin: 0 16px 32px;
 }
+
+@media screen and (min-width: 768px) {
+  .places-card__title {
+    margin: 0;
+  }
+
+}

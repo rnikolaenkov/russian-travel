@@ -1,0 +1,13 @@
+.places-card__url {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  transition: 0.2s;
+}
+
+.places-card__url:hover {
+  opacity: 0.8;
+}
