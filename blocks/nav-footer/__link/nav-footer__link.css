@@ -18,3 +18,10 @@
 .nav-footer__link:hover {
   opacity: 0.8;
 }
+
+@media screen and (min-width: 768px) {
+  .nav-footer__link {
+    font-size: 16px;
+    line-height: 18px;
+  }
+}

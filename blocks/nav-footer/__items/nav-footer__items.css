@@ -3,3 +3,10 @@
   margin: 0;
   list-style: none;
 }
+
+@media screen and (min-width: 768px) {
+  .nav-footer__items {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
