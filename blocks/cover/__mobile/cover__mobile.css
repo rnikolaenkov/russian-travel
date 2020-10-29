@@ -4,3 +4,10 @@
     margin-left: -48px;
   }
 }
+
+@media screen and (max-width: 816px) {
+  .cover__mobile {
+      margin-right: -24px;
+      margin-left: -24px;
+  }
+}
