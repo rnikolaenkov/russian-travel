@@ -51,4 +51,9 @@
 @import url('../blocks/place-card/__image/place-card__image.css');
 @import url('../blocks/place-card/__text/place-card__text.css');
 
+/* cover */
+@import url('../blocks/cover/__link/cover__link.css');
+@import url('../blocks/cover/__title/cover__title.css');
+@import url('../blocks/cover/__subtitle/cover__subtitle.css');
+
 
