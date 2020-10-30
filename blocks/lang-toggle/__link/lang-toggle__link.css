@@ -1,0 +1,15 @@
+.lang-toggle__link {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  /* identical to box height, or 111% */
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.lang-toggle__link:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,7 @@
+.lang-toggle__item {
+  margin-right: 18px;
+}
+
+.lang-toggle__item:last-child {
+  margin-right: 0;
+}
