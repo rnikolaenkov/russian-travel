@@ -1,3 +1,9 @@
 .main__section {
   margin-bottom: 64px;
 }
+
+@media screen and (min-width: 768px) {
+  .main__section {
+    margin-bottom: 88px;
+  }
+}

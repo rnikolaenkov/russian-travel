@@ -11,3 +11,18 @@
   color: #FFFFFF;
   margin-bottom: 40px;
 }
+
+@media screen and (min-width: 768px) {
+  .lead__subtitle {
+    display: block;
+    max-width: 640px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 36px;
+    /* or 120% */
+    margin-top: 32px;
+    margin-bottom: 56px;
+  }
+}

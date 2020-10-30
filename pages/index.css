@@ -22,6 +22,7 @@
 
 /* main */
 @import url('../blocks/main/__section/main__section.css');
+@import url('../blocks/main/__places/main__places.css');
 
 /* lead */
 @import url('../blocks/lead/lead.css');
