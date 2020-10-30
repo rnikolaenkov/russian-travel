@@ -1,0 +1,7 @@
+.photos__item {
+  margin-bottom: 12px;
+}
+
+.photos__item:last-child {
+  margin-bottom: 0;
+}
