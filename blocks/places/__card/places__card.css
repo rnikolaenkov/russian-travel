@@ -1,3 +1,10 @@
 .places__card {
   margin-bottom: 49px;
 }
+
+@media screen and (min-width: 768px) {
+  .places__card {
+    padding: 0 24px;
+    margin-bottom: 73px;
+  }
+}

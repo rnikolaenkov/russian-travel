@@ -1,3 +1,11 @@
 .place-card__url-desc {
-
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  color: #AAAAAA;
+  text-transform: uppercase;
+  margin: 0 0 12px;
 }
