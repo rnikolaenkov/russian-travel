@@ -6,6 +6,7 @@
 @import url('../blocks/root/_theme_dark/root_theme_dark.css');
 @import url('../blocks/root/__container/root__container.css');
 @import url('../blocks/root/__header/root__header.css');
+@import url('../blocks/root/__centering/root__centering.css');
 
 /* header */
 @import url('../blocks/header/header.css');
@@ -21,6 +22,7 @@
 @import url('../blocks/lang-toggle/__link/_active/lang-toggle__link_active.css');
 
 /* main */
+@import url('../blocks/main/main.css');
 @import url('../blocks/main/__section/main__section.css');
 @import url('../blocks/main/__places/main__places.css');
 
