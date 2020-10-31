@@ -15,3 +15,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+@media screen and (min-width: 768px) {
+  .cover__title {
+    max-width: 560px;
+    font-size: 72px;
+    line-height: 76px;
+    margin: 0 0 32px;
+  }
+}
