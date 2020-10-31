@@ -9,4 +9,13 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__copyright {
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0;
+  }
 }
