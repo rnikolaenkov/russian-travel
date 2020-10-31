@@ -22,3 +22,10 @@
     padding: 0;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .place-card__text {
+    font-size: 18px;
+    margin: 0 0 27px;
+  }
+}

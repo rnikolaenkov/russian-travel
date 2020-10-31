@@ -16,12 +16,16 @@
 
 @media screen and (min-width: 768px) {
   .place-card__title {
-    display: block;
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 900;
     font-size: 42px;
     line-height: 46px;
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place-card__title {
+    font-size: 72px;
+    line-height: 76px;
     margin: 0;
   }
 }

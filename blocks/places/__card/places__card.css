@@ -4,7 +4,13 @@
 
 @media screen and (min-width: 768px) {
   .places__card {
-    padding: 0 24px;
+    padding: 0 48px;
     margin-bottom: 73px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .places__card {
+    margin-bottom: 53px;
   }
 }
