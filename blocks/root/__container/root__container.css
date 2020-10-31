@@ -7,3 +7,9 @@
     padding: 0 24px;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .root__container {
+    padding: 0 48px;
+  }
+}
