@@ -1,5 +1,5 @@
 .place-card__url-desc {
-  font-family: Inter;
+  font-family: Inter, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -8,4 +8,7 @@
   color: #AAAAAA;
   text-transform: uppercase;
   margin: 0 0 12px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

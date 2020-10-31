@@ -1,7 +1,7 @@
 .place-card__title {
   display: block;
   max-width: 288px;
-  font-family: Inter;
+  font-family: Inter, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 32px;
@@ -9,6 +9,9 @@
   /* identical to box height, or 109% */
   color: #FFFFFF;
   margin: 0 0 32px 16px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 @media screen and (min-width: 768px) {

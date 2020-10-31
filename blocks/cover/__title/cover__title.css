@@ -5,13 +5,13 @@
   position: relative;
   z-index: 3;
   margin: 0 0 16px;
-
-  font-family: Inter;
+  font-family: Inter, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 32px;
   line-height: 35px;
-  /* or 109% */
-
   color: #FFFFFF;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

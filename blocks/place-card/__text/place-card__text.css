@@ -1,13 +1,16 @@
 .place-card__text {
   margin: 0 0 25px;
   padding: 0 16px;
-  font-family: Inter;
+  font-family: Inter, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 163%;
   /* or 26px */
   color: #FFFFFF;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .place-card__text:last-child {
