@@ -1,7 +1,8 @@
 .photos__item {
   width: 100%;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
+
 
 .photos__item:last-child {
   margin-bottom: 0;
